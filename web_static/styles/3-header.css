@@ -1,4 +1,4 @@
-head {
+header {
     background-color: white;
     height: 70px;
     width: 100%;
@@ -13,6 +13,7 @@ head {
     background-repeat: no-repeat;
     }
 
+/*
 head .logo {
     float: left;
     margin-left: 20px;
@@ -23,3 +24,5 @@ head .logo {
 head .logo img{
     vertical-align: middle;
 }
+
+*/
