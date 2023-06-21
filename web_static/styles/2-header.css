@@ -1,17 +1,5 @@
 header {
-    background-color: white;
-    height: 70px;
+    background-color: #00FF00;
+    height: 60px;
     width: 100%;
-    border-bottom: 1px #CCCCCC;
-    }
-
-header .logo {
-    float: left;
-    margin-left: 20px;
-    height: 70px;
-    line-height: 70px;
-    }
-
-header .logo img {
-        vertical-align: middle;
     }
